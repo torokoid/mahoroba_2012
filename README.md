@@ -22,11 +22,13 @@ font-size: 1.5em;
 
 body { background-color: #ccffcc; }
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
+
 </style>
 <!--
 <link rel="stylesheet" href="../style.css/" type="text/css">
 -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
+
 </head>
 
 
