@@ -68,13 +68,13 @@ a.p:hover span {
 <h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2012年の記録</h3>
-<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/0234.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/0234.JPG.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/0234.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/0234.JPG" alt="SMBnwgw_mailtop2.jpg" height="210" width="240" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba/0234.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/0235.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/0235.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/0235.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/0235.JPG" alt="SMBnwgw_mailtop2.jpg" height="210" width="240" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba/0235.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/0240.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/0240.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="SMBnwgw_mailtop2.jpg" height="210" width="240" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="Link拡大"></span></a>
 
 <!--
