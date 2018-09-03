@@ -38,13 +38,13 @@ body { background-color: #ccffcc; }
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2012年の記録</h3>
 <a href="https://torokoid.github.io/mahoroba/0234.JPG" data-lightbox="abc" data-title="写真拡大">
-   <img src="https://torokoid.github.io/mahoroba/0234.JPG" alt="サムネイル">
+   <img src="https://torokoid.github.io/mahoroba/0234.JPG" alt="サムネイル" width="318">
 </a>
 <a href="https://torokoid.github.io/mahoroba/0235.JPG" data-lightbox="abc" data-title="写真拡大">
-   <img src="https://torokoid.github.io/mahoroba/0235.JPG" alt="サムネイル">
+   <img src="https://torokoid.github.io/mahoroba/0235.JPG" alt="サムネイル" width="318">
 </a>
 <a href="https://torokoid.github.io/mahoroba/0240.JPG" data-lightbox="abc" data-title="写真拡大">
-   <img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="サムネイル">
+   <img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="サムネイル" width="318">
 </a>
 
 <!--
