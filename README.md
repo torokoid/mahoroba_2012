@@ -37,15 +37,21 @@ body { background-color: #ccffcc; }
 <h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2012年の記録</h3>
+<a href="/mahoroba/0234.JPG" class="preview"><img src="/mahoroba/0234.JPG" alt="河原でのバーベキュー" width="350" /></a>
+<a href="/mahoroba/0235.JPG" class="preview"><img src="/mahoroba/0235.JPG" alt="河原でのバーベキュー" width="350" /></a>
+<a href="/mahoroba/0240.JPG" class="preview"><img src="/mahoroba/0240.JPG" alt="河原でのバーベキュー" width="350" /></a>
+
+<!--
 <a href="https://torokoid.github.io/mahoroba/0234.JPG" data-lightbox="abc" data-title="写真拡大">
-   <img src="https://torokoid.github.io/mahoroba/0234.JPG" alt="サムネイル" width="318">
+   <img src="https://torokoid.github.io/mahoroba/0234.JPG" alt="サムネイル" width="318" />
 </a>
 <a href="https://torokoid.github.io/mahoroba/0235.JPG" data-lightbox="abc" data-title="写真拡大">
-   <img src="https://torokoid.github.io/mahoroba/0235.JPG" alt="サムネイル" width="318">
+   <img src="https://torokoid.github.io/mahoroba/0235.JPG" alt="サムネイル" width="318" />
 </a>
 <a href="https://torokoid.github.io/mahoroba/0240.JPG" data-lightbox="abc" data-title="写真拡大">
-   <img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="サムネイル" width="318">
+   <img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="サムネイル" width="318" />
 </a>
+-->
 
 <!--
 <img src="https://torokoid.github.io/mahoroba/0234.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
