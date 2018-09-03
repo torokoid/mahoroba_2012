@@ -77,7 +77,7 @@ a.p:hover span {
 
 <SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/0240.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="SMBnwgw_mailtop2.jpg" height="210" width="240" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba/0240.JPG" alt="Link拡大"></span></a>
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
 <a href="/mahoroba/0234.JPG" class="preview"><img src="/mahoroba/0234.JPG" alt="河原でのバーベキュー" width="350" /></a>
 <a href="/mahoroba/0235.JPG" class="preview"><img src="/mahoroba/0235.JPG" alt="河原でのバーベキュー" width="350" /></a>
